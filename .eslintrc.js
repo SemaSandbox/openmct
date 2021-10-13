@@ -1,3 +1,4 @@
+#hello world
 const LEGACY_FILES = ["platform/**", "example/**"];
 module.exports = {
     "env": {
